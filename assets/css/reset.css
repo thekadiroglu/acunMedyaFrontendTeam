@@ -108,7 +108,7 @@ h6 {
 }
 
 .btn-white {
-  background-color: #dae0e6;
+  background-color: #FFFFFF;
   border: 1px solid rgba(255, 255, 255, 0.3);
   transition: 0.3s;
   border-radius: 4px;
@@ -144,6 +144,24 @@ h6 {
   line-height: 24px;
 }
 
+.btn-black {
+  background-color: #2E3545;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  transition: 0.3s;
+  border-radius: 4px;
+  color: #F9F9F9;
+  padding: 12px 18px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+}
+
 /* Buttons Hover Start */
 .btn-blue:hover {
   background-color: white;
@@ -158,6 +176,11 @@ h6 {
 .btn-border:hover {
   background-color: #dae0e6;
 }
+
+.btn-white:hover {
+  background-color: #DAE0E6;
+}
+
 /* Buttons Hover End */
 
 /* Buttons End */
