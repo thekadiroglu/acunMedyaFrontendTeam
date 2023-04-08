@@ -1,3 +1,44 @@
+/* for all */
+h1 {
+  font-family: "Inter";
+  font-weight: 700;
+  font-size: 52px;
+  line-height: 60px;
+  color: #272d37;
+}
+h2 {
+  font-family: "Inter";
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 40px;
+  color: #272d37;
+}
+h3 {
+  font-family: "Inter";
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 42px;
+  color: #272d37;
+}
+h4 {
+  font-family: "Inter";
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 30px;
+  color: #272d37;
+}
+p {
+  font-family: "Inter";
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 26px;
+  color: #272d37;
+}
+
+i {
+  color: #272d37;
+}
+
 /*
   1. Use a more-intuitive box-sizing model.
 */
@@ -69,8 +110,7 @@ h6 {
   isolation: isolate;
 }
 
-
-/* Buttons Start */ 
+/* Buttons Start */
 .btn-blue {
   background-color: #437ef7;
   border: 1px solid rgba(255, 255, 255, 0.3);
